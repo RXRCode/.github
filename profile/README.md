@@ -2,65 +2,103 @@
 
 # RXR Code
 
-### Software built for modern commerce.
+### Software for modern commerce.
 
-Building Shopify apps, SaaS products, open-source tools, and developer infrastructure.
+**Shopify Apps · SaaS · Open Source · Developer Tools**
 
-[Website](https://rxrcode.dev)
+We build focused software for merchants, developers, and e-commerce teams.
+
+[**Visit RXR Code →**](https://rxrcode.dev)
 
 </div>
 
----
-
-## What we build
-
-RXR Code is an independent software studio focused on creating practical tools for merchants, developers, and modern e-commerce teams.
-
-Our work spans:
-
-- Shopify apps
-- SaaS products
-- Developer tooling
-- E-commerce infrastructure
-- Open-source software
-
----
+<br />
 
 ## Products
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### StoreProof
 
-Social proof and trust infrastructure designed for modern online stores.
+**Trust signals for modern storefronts.**
 
-**Website:** https://storeproof.rxrcode.dev
+A SaaS product focused on helping online stores strengthen customer confidence through social proof and storefront trust signals.
 
----
+**Status:** Live
+
+[Visit StoreProof →](https://storeproof.rxrcode.dev)
+
+</td>
+<td width="50%" valign="top">
 
 ### CatalogCue
 
-A Shopify app focused on making catalog management and merchandising easier.
+**Smarter Shopify catalog workflows.**
+
+A Shopify app focused on making catalog management, merchandising, and product organization easier for merchants.
 
 **Status:** In development
 
----
+</td>
+</tr>
+</table>
 
 ## Open Source
 
+<table>
+<tr>
+<td valign="top">
+
 ### Shopify Fixtures
 
-Developer tooling for creating predictable Shopify development, testing, and demo environments.
+**Predictable development environments for Shopify.**
 
-Coming soon under:
+Open-source developer tooling for creating reusable Shopify fixtures for development, testing, demos, and repeatable workflows.
+
+**Status:** In development · Open source
 
 `RXRCode/shopify-fixtures`
 
+</td>
+</tr>
+</table>
+
+## What we build
+
+RXR Code focuses on a small set of areas where software can remove friction and make workflows better.
+
+**Shopify Engineering**
+Apps, storefront tooling, integrations, and merchant workflows.
+
+**SaaS Products**
+Focused software built around real operational problems.
+
+**Developer Tools**
+Utilities that make development, testing, and automation easier.
+
+**Open Source**
+Reusable tools and infrastructure built in public.
+
+## Our approach
+
+We like software that is:
+
+* Useful before complicated
+* Focused rather than overloaded
+* Built for real workflows
+* Designed to be maintainable
+* Improved continuously through actual use
+
 ---
 
-## Building at RXR Code
+<div align="center">
 
-```text
-Shopify Engineering
-SaaS Products
-Developer Tools
-Open Source
-E-commerce Infrastructure
+### Build useful software. Ship it well.
+
+[rxrcode.dev](https://rxrcode.dev) · [contact@rxrcode.dev](mailto:contact@rxrcode.dev)
+
+<sub>RXR Code · Independent software studio</sub>
+
+</div>
